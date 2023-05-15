@@ -99,4 +99,4 @@ React.useEffect(() => {
     }
   }, [histogramData]);
 
-In this useEffect hook buils a bar chart using Chart.js to visualize the histogram data. Whenever the histogramData variable changes, the chart is updated to reflect the new data accordingly.
+In this useEffect hook builds a bar chart using Chart.js to visualize the histogram data. Whenever the histogramData variable changes, the chart is updated to reflect the new data accordingly.
